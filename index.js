@@ -1,5 +1,5 @@
 // Write your solution here!
-let pets =[];
+const pets =["Milo", "Otis", "Garfield"];
 pets.push("Odie");
 pets.shift();
 pets.pop();
